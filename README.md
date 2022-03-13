@@ -1,3 +1,3 @@
 # BossPrototype
 
-Boss Battle Coded in Unity
+Boss Battle Coded in Unity with 3 stages
