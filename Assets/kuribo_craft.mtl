@@ -1,0 +1,46 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl Mat_fmd_kuribo_craft_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 1
+map_Kd kuribo_craft_dammy.png
+
+newmtl Mat_fmd_kuribo_craft_mat.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 1
+map_Kd Color1.png
+
+newmtl Mat_fmd_kuribo_craft_mat.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 1
+map_Kd Color2.png
+
+newmtl Mat_fmd_kuribo_craft_mat.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 1
+map_Kd Color3.png

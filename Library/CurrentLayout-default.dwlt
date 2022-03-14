@@ -119,8 +119,8 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
+  m_MinSize: {x: 678, y: 492}
+  m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
   controlID: 25
 --- !u!114 &6
@@ -272,8 +272,8 @@ MonoBehaviour:
     y: 0
     width: 434
     height: 947
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -315,9 +315,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.56498194, y: -1.4723684, z: -2.1303918}
+    m_Target: {x: 15.354484, y: 10.380554, z: -2.9769871}
     speed: 2
-    m_Value: {x: 0.56330866, y: -1.472987, z: -2.128996}
+    m_Value: {x: 15.353012, y: 10.38124, z: -2.9834352}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -364,9 +364,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.12486363, y: 0.41985038, z: -0.058468897, w: -0.8971151}
+    m_Target: {x: 0.065803014, y: -0.239254, z: 0.01617555, w: 0.9686841}
     speed: 2
-    m_Value: {x: -0.12476959, y: 0.42117465, z: -0.05865321, w: -0.89643973}
+    m_Value: {x: 0.06434405, y: -0.2392561, z: 0.01581508, w: 0.968693}
   m_Size:
     m_Target: 9.55
     speed: 2
@@ -423,23 +423,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 8e0e0000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 4afbffff
+      m_ExpandedIDs: 24f9ffff4afbffff6a4b0000964b0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Target
+        m_OriginalName: Target
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -45738
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 4
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 8}
       m_SearchString: 
@@ -497,8 +497,8 @@ MonoBehaviour:
     vZoomLockedByDefault: 0
     m_HBaseRangeMin: -546.5
     m_HBaseRangeMax: 546.5
-    m_VBaseRangeMin: -255
-    m_VBaseRangeMax: 255
+    m_VBaseRangeMin: -244.5
+    m_VBaseRangeMax: 244.5
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -515,11 +515,11 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 0
+      y: 21
       width: 1093
-      height: 510
+      height: 489
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 546.5, y: 255}
+    m_Translation: {x: 546.5, y: 244.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -527,9 +527,9 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -546.5
-      y: -255
+      y: -244.5
       width: 1093
-      height: 510
+      height: 489
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1093, y: 510}

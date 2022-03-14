@@ -23,15 +23,15 @@ public class PlayerHealthManager : MonoBehaviour
     {
         HealthBarImage.fillAmount = health;
 
-        if ( HealthBarImage.fillAmount == 1f)
+        if ( HealthBarImage.fillAmount <= 1f)
         {
             HealthBarImage.color = Color.green;
         }
-        if ( HealthBarImage.fillAmount == 0.7f)
+        if ( HealthBarImage.fillAmount <= 0.7f)
         {
             HealthBarImage.color = Color.yellow;
         }
-        if ( HealthBarImage.fillAmount == 0.3f)
+        if ( HealthBarImage.fillAmount <= 0.3f)
         {
             HealthBarImage.color = Color.red;
         }
